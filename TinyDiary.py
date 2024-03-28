@@ -1,6 +1,7 @@
 from datetime import datetime
 import json
 import os
+
 from TinyDiaryArt import logos
 
 current_month = datetime.now().month
